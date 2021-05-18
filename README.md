@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LavanyaKudli14
 - 👀 I’m interested in learning programming languages to solve environmental challenges...
 - 🌱 I’m currently learning python and mindfulness
-- 💞️ 
+- 💞️ I would like to work on interdisciplinary projects for begginers like me
 - 📫 Connect with me on LinkedIn - Lavanya Kudli...
 
 <!---
